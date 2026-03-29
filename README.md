@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I am a **Data Engineering** graduating student (this summer) at **UCT Prague**, specializing in **Data Science**, and a **Software Engineering** student at **42Prague**.
+I am a **Data Engineering** student at **UCT Prague**  and a **Software Engineering** student at **42Prague**.
 --- 
 - 🎓 **Finishing Masters:** Data Engineering in Chemistry (UCT Prague).
 - 💻 **42Prague Student:** Deep-diving into C, Python and programming.
