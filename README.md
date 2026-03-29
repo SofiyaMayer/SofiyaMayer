@@ -12,6 +12,16 @@ I am a **Data Engineering** graduating student (this summer) at **UCT Prague**, 
 - 🎓 **Finishing Masters:** Data Engineering in Chemistry (UCT Prague).
 - 💻 **42Prague Student:** Deep-diving into C, Python and programming.
 - 🛠️ **Current Focus:** Docker, Linux, Networking, Machine Learning & Deep Learning.
+---
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | C, Python, SQL |
+| **Data & Science** | Machine Learning, Deep Learning, Statistics (pandas, numpy, scikit-learn, pytorch) |
+| **Infrastructure** | Docker, Linux, Bash, Raspberry Pi, IoT automation |
+
+### Some of my projects:
+
 ### 🐢 Fun Fact & Side Projects
 When I'm not debugging C or analyzing chemical data, I’m managing my **Smart Terrarium**. I run local-hosted services on a **Raspberry Pi** to monitor and control the environment for my two turtles remotely.
 
