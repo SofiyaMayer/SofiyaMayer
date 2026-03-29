@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, I'm Sofie Meyer</h3>
 
 <p align="center">••
-  <a href="www.linkedin.com/in/sofie-mayer">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/sofie-mayer">LinkedIn</a> •
 </p>
 
 ### 🚀 About Me
