@@ -34,7 +34,7 @@ I am a **Data Engineering** student at **UCT Prague**  and a **Software Engineer
 ---
 
 ### 🐢 Fun Fact & Side Projects
-When I'm not debugging C or analyzing chemical data, I’m managing my **Smart Terrarium**. I run local-hosted services on a **Raspberry Pi** to monitor and control the environment for my two turtles remotely.
+I have two baby turtles and I take care for them. I run local-hosted services on a **Raspberry Pi** (Home Assistant) to monitor and control the environment for my two turtles remotely.
 
 - 📫 Reach me on [email](mailto:sofiyameyer@hotmail.com)
 - 😄 Pronouns: She/Her  
