@@ -4,7 +4,6 @@
   <a href="www.linkedin.com/in/sofie-mayer">LinkedIn</a> •
 </p>
 
----
 ### 🚀 About Me
 
 I am a **Data Engineering** graduating student (this summer) at **UCT Prague**, specializing in **Data Science**, and a **Software Engineering** student at **42Prague**.
@@ -17,10 +16,21 @@ I am a **Data Engineering** graduating student (this summer) at **UCT Prague**, 
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Languages** | C, Python, SQL |
-| **Data & Science** | Machine Learning, Deep Learning, Statistics (pandas, numpy, scikit-learn, pytorch) |
+| **Data & Science** | Machine Learning, Deep Learning, Statistics (*pandas, numpy, scikit-learn, pytorch*) |
 | **Infrastructure** | Docker, Linux, Bash, Raspberry Pi, IoT automation |
 
-### Some of my projects:
+## Some of my projects:
+#### 👁️ Computer Vision & Deep Learning
+* **[Automatic Number Plate Recognition (ANPR)](https://github.com/SofiyaMayer/car_plates_numbers)**
+    * Implementing Deep Learning models to detect and register car license numbers.
+    * *Tech:* Python, PyTorch, OpenCV, paddleocr, Raspberry Pi, Linux.
+
+#### 🛡️ System Administration 
+ **[born2beroot-guide](https://github.com/SofiyaMayer/born2beroot)**
+    - A comprehensive, self-authored guide for deploying and hardening a Rocky Linux server.
+    - Security: Implementation of LVM, SSH hardening, firewalld Firewall and SELinux fine-tuning.
+    - Service Deployment: 🌐 Web Stack: Lighttpd, PHP, and MariaDB for high-performance web hosting.
+        - 🎬 Media Hosting: Configured Jellyfin for a self-hosted, private streaming platform.
 
 ### 🐢 Fun Fact & Side Projects
 When I'm not debugging C or analyzing chemical data, I’m managing my **Smart Terrarium**. I run local-hosted services on a **Raspberry Pi** to monitor and control the environment for my two turtles remotely.
