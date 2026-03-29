@@ -19,6 +19,7 @@ I am a **Data Engineering** student at **UCT Prague**  and a **Software Engineer
 | **Data & Science** | Machine Learning, Deep Learning, Statistics (*pandas, numpy, scikit-learn, pytorch*) |
 | **Infrastructure** | Docker, Linux, Bash, Raspberry Pi, IoT automation |
 
+---
 ## Some of my projects:
 #### 👁️ Computer Vision & Deep Learning
 - **[Automatic Number Plate Recognition (ANPR)](https://github.com/SofiyaMayer/car_plates_numbers)**
@@ -29,7 +30,8 @@ I am a **Data Engineering** student at **UCT Prague**  and a **Software Engineer
     - A comprehensive, self-authored guide for deploying and hardening a Rocky Linux server.
     - Security: Implementation of LVM, SSH hardening, firewalld Firewall and SELinux fine-tuning.
     - Service Deployment: 🌐 Web Stack: Lighttpd, PHP, and MariaDB for high-performance web hosting.
-        - 🎬 Media Hosting: Configured Jellyfin - video streaming platform (everyone loves watching fun movies after completing a project, right? ...)
+        - 🎬 Media Hosting: Configured Jellyfin - video streaming platform
+---
 
 ### 🐢 Fun Fact & Side Projects
 When I'm not debugging C or analyzing chemical data, I’m managing my **Smart Terrarium**. I run local-hosted services on a **Raspberry Pi** to monitor and control the environment for my two turtles remotely.
