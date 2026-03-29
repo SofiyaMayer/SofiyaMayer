@@ -21,12 +21,11 @@ I am a **Data Engineering** student at **UCT Prague**  and a **Software Engineer
 
 ## Some of my projects:
 #### 👁️ Computer Vision & Deep Learning
-* **[Automatic Number Plate Recognition (ANPR)](https://github.com/SofiyaMayer/car_plates_numbers)**
-    * Implementing Deep Learning models to detect and register car license numbers.
-    * *Tech:* Python, PyTorch, OpenCV, paddleocr, Raspberry Pi, Linux.
+- **[Automatic Number Plate Recognition (ANPR)](https://github.com/SofiyaMayer/car_plates_numbers)**
+    - Implementing Deep Learning models to detect and register car license numbers.
 
 #### 🛡️ System Administration 
- **[born2beroot-guide](https://github.com/SofiyaMayer/born2beroot)**
+- **[born2beroot-guide](https://github.com/SofiyaMayer/born2beroot)**
     - A comprehensive, self-authored guide for deploying and hardening a Rocky Linux server.
     - Security: Implementation of LVM, SSH hardening, firewalld Firewall and SELinux fine-tuning.
     - Service Deployment: 🌐 Web Stack: Lighttpd, PHP, and MariaDB for high-performance web hosting.
